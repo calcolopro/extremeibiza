@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "ExtremeIbiza | Luxury Concierge Services",
+    "description": "Premium concierge services in Ibiza. VIP tables, luxury villas, yacht charters, supercars, and bespoke experiences. 15 years of excellence."
+  },
+  "hero": {
+    "tagline": "Luxury Without Limits",
+    "cta": "Plan My Experience",
+    "viewServices": "View Services",
+    "scroll": "Scroll to Explore"
+  },
+  "services": {
+    "title": "Our Services",
+    "premium": "Premium",
+    "vipTables": {
+      "title": "VIP Tables",
+      "description": "Priority access to Pacha, Amnesia, Ushuaïa, Hï Ibiza and all top venues"
+    },
+    "villas": {
+      "title": "Luxury Villas",
+      "description": "Exclusive properties with direct access. Sea views, pools, privacy"
+    },
+    "yachts": {
+      "title": "Yacht Charters",
+      "description": "Day cruises, sunset sails, Formentera trips. All sizes available"
+    },
+    "supercars": {
+      "title": "Supercar Hire",
+      "description": "Ferrari, Lamborghini, Porsche, Bentley, Rolls-Royce and more"
+    },
+    "transfers": {
+      "title": "Private Transfers",
+      "description": "Mercedes V-Class, shuttle service, airport pickups"
+    },
+    "security": {
+      "title": "Personal Security",
+      "description": "Professional protection. Discreet, experienced, 24/7"
+    },
+    "dining": {
+      "title": "Private Dining",
+      "description": "Personal chefs, exclusive reservations, beach setups"
+    },
+    "jets": {
+      "title": "Private Jets",
+      "description": "Private flights to Ibiza. VIP arrivals and departures"
+    }
+  },
+  "difference": {
+    "badge": "15 Years of Excellence",
+    "quote": "We have the keys to every door in Ibiza.",
+    "subquote": "Direct relationships, insider access, and 100% local expertise.",
+    "text": "Our team lives on the island. We know every villa, every captain, every club manager personally. When you work with us, you get the real Ibiza experience."
+  },
+  "contact": {
+    "title": "Ready for the Extreme Experience?",
+    "startPlanning": "Start Planning",
+    "directWhatsApp": "Direct WhatsApp",
+    "email": "Email",
+    "booking": "Booking",
+    "location": "Location"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 ExtremeIbiza. Part of",
+    "group": "Digital Energy Group"
+  },
+  "chat": {
+    "title": "ExtremeIbiza Concierge",
+    "online": "Online now",
+    "placeholder": "Type your message...",
+    "welcome": "Welcome to ExtremeIbiza!\n\nI'm here to help plan your perfect Ibiza experience. With 15 years on the island, we have direct access to the best villas, clubs, yachts, and cars.\n\nWhat's your name?",
+    "niceTo": "Nice to meet you",
+    "whenVisit": "When are you planning to visit Ibiza?\n(e.g., \"June 15-22\" or \"first week of August\")",
+    "howMany": "How many people will be in your group?",
+    "whichServices": "Which services are you interested in?\nSelect all that apply:",
+    "budget": "What's your approximate budget for this trip?",
+    "specialRequests": "Any special requests?\n(celebrations, dietary needs, specific requests)\n\nType your message or skip:",
+    "howContact": "How would you like us to contact you?",
+    "whatsappNumber": "What's your WhatsApp number?\n(include country code, e.g., +44 7911 123456)",
+    "emailAddress": "What's your email address?",
+    "phoneNumber": "What's your phone number?",
+    "summary": "YOUR REQUEST SUMMARY",
+    "sendWhatsApp": "Send via WhatsApp",
+    "sendEmail": "Send via Email",
+    "thankYou": "Click above to send your request. We'll get back to you within 24 hours with personalized options!",
+    "skip": "Skip",
+    "confirm": "Confirm",
+    "confirmSelection": "Confirm Selection",
+    "nights": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    },
+    "groupSizes": {
+      "solo": "Just me",
+      "two": "2",
+      "small": "3-5",
+      "medium": "6-10",
+      "large": "10-20",
+      "xlarge": "20+"
+    },
+    "budgets": {
+      "low": "€5K - €15K",
+      "medium": "€15K - €50K",
+      "high": "€50K - €100K",
+      "vhigh": "€100K+",
+      "flexible": "Flexible"
+    },
+    "contactMethods": {
+      "whatsapp": "WhatsApp",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}
